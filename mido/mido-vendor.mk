@@ -1154,4 +1154,5 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     WfdCommon \
+    android.hardware.biometrics.fingerprint@2.1-service.xiaomi_mido \
     chargeonlymode
